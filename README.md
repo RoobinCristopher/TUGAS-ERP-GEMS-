@@ -52,7 +52,7 @@ npm run build
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to access your ERP System_Roobin.
+Open https://r0fvh7nta1m0-deploy.space.z.ai to access your ERP System_Roobin.
 
 ## 🔧 Default Access
 
