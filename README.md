@@ -1,1 +1,1 @@
-# TUGAS-ERP-GEMS- https://ai.studio/apps/drive/1M2OGGBCPDxEsHD15EUZSkXV2aGCx46Zo
+# TUGAS-ERP-GEMS- https://preview-chat-03c70f88-9b7f-491e-aa3a-a1ba2dd72b1f.space.z.ai/
