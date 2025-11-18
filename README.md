@@ -56,7 +56,7 @@ Open https://r0fvh7nta1m0-deploy.space.z.ai to access your ERP System_Roobin.
 
 ## 🔧 Default Access
 
-- **URL**: http://localhost:3000
+- **URL**: https://r0fvh7nta1m0-deploy.space.z.ai
 - **Default Email**: admin@erpmini.com
 - **Default Password**: password
 
